@@ -1,2 +1,0 @@
-# NIERONIN
-NIERONIN source project
